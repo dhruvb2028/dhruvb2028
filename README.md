@@ -7,12 +7,18 @@ I build end-to-end AI products, agents, automation tools, and full-stack applica
 My main interests are **AI agents, retrieval-augmented generation (RAG), voice AI, evaluation, reliable backend systems, and developer tools**. I care about building products that work beyond the first demo: bounded workflows, validated model outputs, clear failure handling, secure APIs, and measurable results.
 
 📍 Bengaluru, India  
-🎓 Scaler School of Technology  
-💼 Open to internships, AI engineering roles, hackathons, and technical collaborations
+🎓 Scaler School of Technology · expected graduation August 2028  
+💼 Available immediately for remote ML / applied AI internships from India, 40+ hours/week
 
 🌐 [LinkedIn](https://www.linkedin.com/in/dhruvbansal2028)  
 🌐 [Kaggle](https://www.kaggle.com/dhruvb2028)  
 🌐 [GitHub](https://github.com/dhruvb2028)
+
+## Featured ML evaluation project
+
+**[Support Intent Routing Benchmark](https://github.com/dhruvb2028/support-intent-routing-benchmark)** compares TF-IDF, frozen MiniLM embeddings and a fixed small instruction-model setup on grouped source data and a separate synthetic challenge. TF-IDF scored 99.64% source-test macro-F1 but 58.89% accuracy on supported challenge requests; MiniLM reached 84.44%. Low coverage and unsafe accepted requests are reported alongside those results.
+
+The project includes duplicate audits, frozen configurations, saved predictions, latency measurements, failure analysis and 34 passing tests. Developed and independently reviewed with AI-agent assistance. The [executed Kaggle notebook](https://www.kaggle.com/code/dhruvb2028/support-intent-routing-benchmark) refits TF-IDF and reproduces its recorded test decisions. [Audited dataset](https://www.kaggle.com/datasets/dhruvb2028/support-intent-routing-audited-evaluation) | [Four technical notes](https://github.com/dhruvb2028/support-intent-routing-benchmark/blob/main/docs/technical-notes.md)
 
 <h3 align="center">💻 Tech Stack</h3>
 
